@@ -3,7 +3,7 @@
   "main": "./lib/tranquil-browser",
   "author": "Sumit <ojhasumit93@gmail.com>",
   "productName": "Tranquil Browser",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Tranquil Browser - Browser in Pulsar",
   "repository": "https://github.com/chaos-zen/tranquil-browser",
   "license": "MIT",
@@ -28,8 +28,7 @@
       }
     }
   },
-  "providedServices": {
-  },
+  "providedServices": {},
   "keywords": [
     "browser",
     "webbrowser",
